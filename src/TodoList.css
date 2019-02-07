@@ -32,6 +32,11 @@
   transition: background-color .2 ease-out;
 }
 
+a {
+  float: right;
+  color: red;
+}
+
 .todoListMain .theList li:hover {
   background-color: #FF7D33;
   cursor: pointer;
